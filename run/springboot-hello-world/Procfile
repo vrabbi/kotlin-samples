@@ -1,1 +1,1 @@
-web: java -jar build/libs/springboot-hello-world.jar
+web: java -jar springboot-hello-world.jar
