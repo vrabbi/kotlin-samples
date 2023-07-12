@@ -1,1 +1,1 @@
-web: java -jar springboot-hello-world.jar
+reload: watchexec -r --shell=none -- java -jar /workspace/springboot-hello-world.jar
